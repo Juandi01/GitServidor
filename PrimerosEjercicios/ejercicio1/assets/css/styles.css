@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f4f8;
+    color: #333;
+    margin: 40px;
+}
+.contenedor {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    max-width: 500px;
+    margin: auto;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+h1 {
+    color: #007acc;
+}
+.info {
+    margin-top: 15px;
+    font-size: 18px;
+}
+.fecha {
+    margin-top: 20px;
+    font-style: italic;
+    color: #555;
+}

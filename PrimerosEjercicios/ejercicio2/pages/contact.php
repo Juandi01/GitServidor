@@ -1,4 +1,3 @@
-<?php include "includes/header.php"; ?>
 <h2>Contacto</h2>
 <form method="post" action="#">
     <label>Nombre:</label><br>
@@ -7,5 +6,3 @@
     <textarea name="mensaje"></textarea><br><br>
     <button type="submit">Enviar</button>
 </form>
-<?php include "includes/footer.php"; ?>
-

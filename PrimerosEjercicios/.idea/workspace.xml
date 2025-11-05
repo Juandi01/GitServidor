@@ -1,47 +1,85 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="c29a601a-3328-4c90-b012-0c76652baefc" name="Changes" comment="" />
+    <list default="true" id="c29a601a-3328-4c90-b012-0c76652baefc" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Seminario1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Seminario1/.idea/Seminario1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Seminario1/.idea/material_theme_project_new.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Seminario1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Seminario1/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Seminario1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Seminario1/ejercicio1.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Servidor.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Servidor.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ejercicio3/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/ejercicio3/assets/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ejercicio3/config.php" beforeDir="false" afterPath="$PROJECT_DIR$/ejercicio3/config/config.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ejercicio3/includes/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/ejercicio3/includes/footer.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ejercicio3/includes/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/ejercicio3/includes/header.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ejercicio3/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/ejercicio3/index.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings">
+  <component name="ComposerConfigs">
+    <option name="configs">
+      <option value="$PROJECT_DIR$/ejercicio3/composer.json" />
+    </option>
+  </component>
+  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/ejercicio1/composer.json</pharConfigPath>
     <execution />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Juandi01"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Juandi01&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Juandi01/Servidor.git",
-    "accountId": "085cbbfc-aea7-4995-9e21-f86bc3f9ab7d"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Juandi01/GitServidor.git&quot;,
+    &quot;accountId&quot;: &quot;085cbbfc-aea7-4995-9e21-f86bc3f9ab7d&quot;
   }
-}]]></component>
-  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="/bin/php" />
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+}</component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="/bin/php">
+    <include_path>
+      <path value="$PROJECT_DIR$/ejercicio1/vendor/composer" />
+      <path value="$PROJECT_DIR$/ejercicio3/vendor/composer" />
+    </include_path>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="33jk8HKCQMBg1ebPfFp9BOxmE3A" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/usua5pc18/PhpstormProjects/Servidor/PrimerosEjercicios&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -58,6 +96,8 @@
       <option name="presentableId" value="Default" />
       <updated>1759837707443</updated>
       <workItem from="1759837708639" duration="171000" />
+      <workItem from="1761047294025" duration="2205000" />
+      <workItem from="1761201801391" duration="422000" />
     </task>
     <servers />
   </component>
